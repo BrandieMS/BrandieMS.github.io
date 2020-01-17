@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I am a PhD Student in Educational Psychology with an emphasis in Research, Measurement, and Statistics....
 
 Etc, etc, etc
